@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D0D0D,100:F5C400&height=220&section=header&text=GUILABDEV&fontSize=60&fontColor=FFD21A&fontAlignY=40&desc=Backend%20Developer%20%7C%20Em%20constru%C3%A7%C3%A3o&descAlignY=58&descColor=A0A0A0&animation=fadeIn" width="100%"/>
 
@@ -49,40 +49,40 @@ Sou estudante de programação, construindo minha experiência através de estud
 
 <br/>
 
+<div align="center">
+
 🟨 **SOBRE MIM**
 
 Estou construindo minha base como desenvolvedor, com foco em entender profundamente a lógica por trás de cada solução antes de buscar complexidade. Prefiro consolidar fundamentos sólidos a acumular tecnologias superficialmente.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=80%"/>
 
 🟨 **ESTUDOS ATUAIS**
 
 Estudo lógica de programação, backend e fundamentos de banco de dados, sempre buscando entender o "porquê" por trás de cada conceito.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=80%"/>
 
 🟨 **FERRAMENTAS**
 
 VS Code, GitHub e Vercel fazem parte do meu fluxo de trabalho atual para escrever, versionar e publicar código.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=80%"/>
 
 🟨 **OBJETIVOS**
 
 Quero me aprofundar em desenvolvimento backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=1&width=80%"/>
 
 🟨 **MEU PROCESSO DE APRENDIZADO**
-
-<div align="center">
 
 `IDEIA` → `ENTENDER O PROBLEMA` → `CRIAR` → `TESTAR`
 `ENCONTRAR O PROBLEMA` → `PESQUISAR` → `CORRIGIR` → `MELHORAR`
 
-</div>
-
 Esse ciclo se repete constantemente — cada erro é parte do processo, não um obstáculo.
+
+</div>
 
 </details>
 
