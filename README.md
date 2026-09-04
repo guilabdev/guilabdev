@@ -19,52 +19,69 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%3E_whoami-0D0D0D?style=flat-square&color=050505" height="28"/>
+> whoami
 
-```
-
-Nome ......... GuiLabDev
+Nome ......... GuilabDev
 Função ....... Estudante de Programação | Foco em Backend
 Filosofia .... "Primeiro faço funcionar. Depois faço ficar melhor."
 Interesse .... Criar ideias, entender problemas, transformá-los em soluções
 
-```
-
-Sou estudante de programação, construindo minha experiência através de estudos, prática e projetos reais. Tenho interesse principalmente em **Backend** e desenvolvimento de sistemas — gosto de identificar problemas e transformá-los em soluções através do código.
-
-<br/>
+Sou estudante de programação, construindo minha experiência através de estudos, prática e projetos reais. Tenho interesse principalmente em Backend e desenvolvimento de sistemas — gosto de identificar problemas e transformá-los em soluções através do código.
 
 <details>
 <summary><b>⚡ MAIS INFO</b></summary>
 
 <br/>
 
-### 🎯 Sobre mim
+🎯 Sobre mim
 
 Estou construindo minha base como desenvolvedor, com foco em entender profundamente a lógica por trás de cada solução antes de buscar complexidade. Prefiro consolidar fundamentos sólidos a acumular tecnologias superficialmente.
 
-### 📚 Estudos atuais
+📚 Estudos atuais
 
-Estudo lógica de programação, backend e fundamentos de banco de dados, sempre buscando entender o "porquê" por trás de cada conceito.
+Python
 
-### 🛠️ Ferramentas do dia a dia
+HTML
 
-VS Code, GitHub e Vercel fazem parte do meu fluxo de trabalho atual para escrever, versionar e publicar código.
+CSS
 
-### 🎯 Objetivos
+JavaScript
 
-Quero me aprofundar em desenvolvimento backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.
+SQL / Banco de Dados
 
-### 🔄 Meu processo de aprendizado
+Lógica de Programação
 
-```
+🛠️ Ferramentas do dia a dia
 
-IDEIA → ENTENDER O PROBLEMA → CRIAR → TESTAR
-→ ENCONTRAR O PROBLEMA → PESQUISAR → CORRIGIR → MELHORAR
+VS Code
 
-```
+GitHub
 
-Esse ciclo se repete constantemente — cada erro é parte do processo, não um obstáculo.
+Vercel
+
+🎯 Objetivos
+
+Quero me aprofundar em desenvolvimento Backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.
+
+🔄 Meu processo de aprendizado
+
+IDEIA
+  ↓
+ENTENDER O PROBLEMA
+  ↓
+CRIAR
+  ↓
+TESTAR
+  ↓
+ENCONTRAR O PROBLEMA
+  ↓
+PESQUISAR E ENTENDER
+  ↓
+CORRIGIR
+  ↓
+MELHORAR
+
+⚡ Primeiro faço funcionar. Depois faço ficar melhor.
 
 </details>
 
@@ -74,7 +91,7 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-TECNOLOGIAS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> tecnologias
 
 <div align="center">
 
@@ -82,14 +99,14 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=F5C400"/>
 <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=F5C400"/>
 <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=postgresql&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=F5C400"/>
 <img src="https://img.shields.io/badge/Lógica_de_Programação-050505?style=for-the-badge&logo=codeforces&logoColor=F5C400"/>
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-FERRAMENTAS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> ferramentas
 
 <div align="center">
 
@@ -101,13 +118,13 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-PRÓXIMOS_ESTUDOS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> próximos_estudos
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=A0A0A0"/>
 <img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A0A0A0"/>
-<img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=A0A0A0"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=A0A0A0"/>
 
 </div>
 
@@ -117,7 +134,7 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-PROJETOS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> projetos
 
 <div align="center">
 
@@ -125,24 +142,20 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 <tr>
 <td width="50%" valign="top">
 
-### 📁 Projeto em breve
+📁 Projeto em breve
 
-> Descrição do projeto aqui.
+Um novo projeto será adicionado aqui assim que estiver pronto para publicação.
 
-`Tecnologia` `Tecnologia`
-
-[`🔗 Repositório`](#) &nbsp;|&nbsp; [`🚀 Demo`](#)
+Tecnologia Tecnologia
 
 </td>
 <td width="50%" valign="top">
 
-### 📁 Projeto em breve
+📁 Projeto em breve
 
-> Descrição do projeto aqui.
+Outro projeto será adicionado aqui assim que estiver pronto para publicação.
 
-`Tecnologia` `Tecnologia`
-
-[`🔗 Repositório`](#) &nbsp;|&nbsp; [`🚀 Demo`](#)
+Tecnologia Tecnologia
 
 </td>
 </tr>
@@ -150,34 +163,33 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 </div>
 
-> 💡 Substitua os cards acima pelos seus projetos reais assim que estiverem prontos para publicação.
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-GITHUB_STATS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> github_stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&theme=react&bg_color=050505&title_color=F5C400&icon_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&theme=react&bg_color=050505&title_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&theme=dark&bg_color=050505&title_color=F5C400&icon_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false" width="49%"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=guilabdev&theme=react&background=050505&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border=F5C400&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&theme=dark&bg_color=050505&title_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilabdev&theme=react&bg_color=050505&color=F5C400&line=FFD21A&point=FFFFFF&area=true&hide_border=true" width="97%"/>
+<img src="https://streak-stats.demolab.com?user=guilabdev&theme=dark&background=050505&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border=F5C400&hide_border=false" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilabdev&bg_color=050505&color=F5C400&line=FFD21A&point=FFFFFF&area=true&hide_border=true" width="97%"/>
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-TROFÉUS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> troféus
 
 <div align="center">
 
@@ -187,7 +199,7 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-CONTRIBUIÇÕES-0D0D0D?style=flat-square&color=050505" height="28"/>
+> contribuições
 
 <div align="center">
 
@@ -195,31 +207,29 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 </div>
 
-> ⚙️ O snake de contribuições requer uma GitHub Action configurada no repositório `guilabdev/guilabdev` para gerar o arquivo SVG automaticamente (workflow `Platane/snk`).
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-REDES_SOCIAIS-0D0D0D?style=flat-square&color=050505" height="28"/>
+> redes_sociais
 
 <div align="center">
 
 <a href="https://github.com/guilabdev">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5C400"/>
 </a>
-<a href="#">
+
+<a href="https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=F5C400"/>
 </a>
-<a href="#">
+
+<a href="https://www.instagram.com/dzioch.g/">
 <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=F5C400"/>
 </a>
 
 </div>
-
-> 💡 Substitua os links `#` acima pelos seus perfis reais.
 
 <br/>
 
