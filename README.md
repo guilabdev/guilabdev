@@ -74,135 +74,6 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-TECNOLOGIAS-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=postgresql&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/Lógica_de_Programação-050505?style=for-the-badge&logo=codeforces&logoColor=F5C400"/>
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-FERRAMENTAS-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5C400"/>
-<img src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=F5C400"/>
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-PRÓXIMOS_ESTUDOS-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=A0A0A0"/>
-<img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A0A0A0"/>
-<img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=A0A0A0"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-PROJETOS-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📁 Projeto em breve
-
-> Descrição do projeto aqui.
-
-`Tecnologia` `Tecnologia`
-
-[`🔗 Repositório`](#) &nbsp;|&nbsp; [`🚀 Demo`](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 Projeto em breve
-
-> Descrição do projeto aqui.
-
-`Tecnologia` `Tecnologia`
-
-[`🔗 Repositório`](#) &nbsp;|&nbsp; [`🚀 Demo`](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 💡 Substitua os cards acima pelos seus projetos reais assim que estiverem prontos para publicação.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-GITHUB_STATS-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&theme=react&bg_color=050505&title_color=F5C400&icon_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&theme=react&bg_color=050505&title_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false" width="49%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=guilabdev&theme=react&background=050505&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border=F5C400&hide_border=false" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilabdev&theme=react&bg_color=050505&color=F5C400&line=FFD21A&point=FFFFFF&area=true&hide_border=true" width="97%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-TROFÉUS-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guilabdev&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-CONTRIBUIÇÕES-0D0D0D?style=flat-square&color=050505" height="28"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/guilabdev/guilabdev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚙️ O snake de contribuições requer uma GitHub Action configurada no repositório `guilabdev/guilabdev` para gerar o arquivo SVG automaticamente (workflow `Platane/snk`).
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
-
-<br/>
-
 ## <img src="https://img.shields.io/badge/-REDES_SOCIAIS-0D0D0D?style=flat-square&color=050505" height="28"/>
 
 <div align="center">
@@ -210,23 +81,11 @@ Esse ciclo se repete constantemente — cada erro é parte do processo, não um 
 <a href="https://github.com/guilabdev">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5C400"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=F5C400"/>
 </a>
-<a href="#">
+<a href="https://www.instagram.com/dzioch.g">
 <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=F5C400"/>
 </a>
-
-</div>
-
-> 💡 Substitua os links `#` acima pelos seus perfis reais.
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C400,50:0D0D0D,100:050505&height=120&section=footer"/>
-
-<sub>⚡ <b>"Primeiro faço funcionar. Depois faço ficar melhor."</b> ⚡</sub>
 
 </div>
