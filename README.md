@@ -1,4 +1,9 @@
- <div align="center">
+<!--
+  ATENÇÃO: substitua todas as ocorrências de "SEU-USUARIO-GITHUB" pelo seu
+  usuário real do GitHub para que os cards de estatísticas funcionem.
+-->
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0D0D0D&height=180&section=header&text=GUILABDEV&fontSize=46&fontColor=F5C400&fontAlignY=55&desc=SOFTWARE%20ENGINEER&descAlignY=75&descColor=A0A0A0&descSize=16" width="100%"/>
 
@@ -24,62 +29,6 @@ LOCALIZAÇÃO  : Brasil
 --------------------------------------------------
 ```
 
-<details>
-<summary>⚡ MAIS INFO</summary>
-
-<br>
-
-### Sobre mim
-
-Sou estudante de programação e estou construindo minha experiência através de estudos, prática e projetos.
-
-Meu principal interesse é Backend e desenvolvimento de sistemas. Gosto de criar ideias, identificar problemas e transformar essas ideias em soluções através da programação.
-
-### O que estou estudando
-
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL / Banco de Dados
-- Lógica de Programação
-
-### Ferramentas que utilizo
-
-- VS Code
-- GitHub
-- Vercel
-
-### Próximos estudos
-
-- Java
-- C
-- C++
-
-### Como eu aprendo
-
-```text
-IDEIA
-  ↓
-ENTENDER O PROBLEMA
-  ↓
-CRIAR UMA SOLUÇÃO
-  ↓
-TESTAR
-  ↓
-ENCONTRAR O PROBLEMA
-  ↓
-PESQUISAR E ENTENDER
-  ↓
-CORRIGIR
-  ↓
-MELHORAR
-```
-
-> Primeiro faço funcionar. Depois faço ficar melhor.
-
-</details>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
 </div>
@@ -103,6 +52,8 @@ MELHORAR
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=F5C400)
 
 </div>
+
+<!-- Substitua os badges acima pelas tecnologias que você realmente utiliza -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
