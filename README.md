@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D0D0D,100:F5C400&height=220&section=header&text=GUILABDEV&fontSize=60&fontColor=FFD21A&fontAlignY=40&desc=Backend%20Developer%20%7C%20Em%20constru%C3%A7%C3%A3o&descAlignY=58&descColor=A0A0A0&animation=fadeIn" width="100%"/>
 
@@ -21,6 +21,8 @@
 
 ## <img src="https://img.shields.io/badge/-%3E_whoami-0D0D0D?style=flat-square&color=050505" height="28"/>
 
+<img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&labelColor=1A1A1A"/><img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&labelColor=1A1A1A"/><img src="https://img.shields.io/badge/●-27C93F?style=flat-square&labelColor=1A1A1A"/><img src="https://img.shields.io/badge/guilabdev@sistema:~-1A1A1A?style=flat-square&color=1A1A1A&labelColor=1A1A1A"/>
+
 ```
 
 Nome ......... GuiLabDev
@@ -39,39 +41,46 @@ Sou estudante de programação, construindo minha experiência através de estud
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎯_SOBRE_MIM-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
+<table width="100%">
+<tr>
+<td width="26%" valign="top"><b>🎯 SOBRE MIM</b></td>
+<td>Estou construindo minha base como desenvolvedor, com foco em entender profundamente a lógica por trás de cada solução antes de buscar complexidade. Prefiro consolidar fundamentos sólidos a acumular tecnologias superficialmente.</td>
+</tr>
+<tr>
+<td valign="top"><b>📚 ESTUDOS ATUAIS</b></td>
+<td>Estudo lógica de programação, backend e fundamentos de banco de dados, sempre buscando entender o "porquê" por trás de cada conceito.</td>
+</tr>
+<tr>
+<td valign="top"><b>🛠️ FERRAMENTAS</b></td>
+<td>VS Code, GitHub e Vercel fazem parte do meu fluxo de trabalho atual para escrever, versionar e publicar código.</td>
+</tr>
+<tr>
+<td valign="top"><b>🎯 OBJETIVOS</b></td>
+<td>Quero me aprofundar em desenvolvimento backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.</td>
+</tr>
+</table>
 
-Estou construindo minha base como desenvolvedor, com foco em entender profundamente a lógica por trás de cada solução antes de buscar complexidade. Prefiro consolidar fundamentos sólidos a acumular tecnologias superficialmente.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
-
-<img src="https://img.shields.io/badge/📚_ESTUDOS_ATUAIS-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
-
-Estudo lógica de programação, backend e fundamentos de banco de dados, sempre buscando entender o "porquê" por trás de cada conceito.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
-
-<img src="https://img.shields.io/badge/🛠️_FERRAMENTAS_DO_DIA_A_DIA-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
-
-VS Code, GitHub e Vercel fazem parte do meu fluxo de trabalho atual para escrever, versionar e publicar código.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
-
-<img src="https://img.shields.io/badge/🎯_OBJETIVOS-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
-
-Quero me aprofundar em desenvolvimento backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
-
-<img src="https://img.shields.io/badge/🔄_MEU_PROCESSO_DE_APRENDIZADO-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
+<br/>
 
 <div align="center">
 
-`IDEIA` → `ENTENDER O PROBLEMA` → `CRIAR` → `TESTAR` → `ENCONTRAR O PROBLEMA` → `PESQUISAR` → `CORRIGIR` → `MELHORAR`
+**🔄 MEU PROCESSO DE APRENDIZADO**
+
+<img src="https://img.shields.io/badge/IDEIA-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/> ➜
+<img src="https://img.shields.io/badge/ENTENDER_O_PROBLEMA-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/> ➜
+<img src="https://img.shields.io/badge/CRIAR-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/> ➜
+<img src="https://img.shields.io/badge/TESTAR-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/>
+
+<img src="https://img.shields.io/badge/ENCONTRAR_O_PROBLEMA-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/> ➜
+<img src="https://img.shields.io/badge/PESQUISAR-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/> ➜
+<img src="https://img.shields.io/badge/CORRIGIR-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/> ➜
+<img src="https://img.shields.io/badge/MELHORAR-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=F5C400"/>
+
+<br/>
+
+*"Esse ciclo se repete constantemente — cada erro é parte do processo, não um obstáculo."*
 
 </div>
-
-Esse ciclo se repete constantemente — cada erro é parte do processo, não um obstáculo.
 
 </details>
 
