@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D0D0D,100:F5C400&height=220&section=header&text=GUILABDEV&fontSize=60&fontColor=FFD21A&fontAlignY=40&desc=Backend%20Developer%20%7C%20Em%20constru%C3%A7%C3%A3o&descAlignY=58&descColor=A0A0A0&animation=fadeIn" width="100%"/>
 
@@ -19,9 +19,13 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%3E_whoami-0D0D0D?style=flat-square&color=050505" height="28"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=40&section=header&text=%3E%20WHOAMI&fontSize=16&fontColor=F5C400&fontAlignY=65&width=100%"/>
 
-<img src="https://img.shields.io/badge/●-FF5F56?style=flat-square&labelColor=1A1A1A"/><img src="https://img.shields.io/badge/●-FFBD2E?style=flat-square&labelColor=1A1A1A"/><img src="https://img.shields.io/badge/●-27C93F?style=flat-square&labelColor=1A1A1A"/><img src="https://img.shields.io/badge/guilabdev@sistema:~-1A1A1A?style=flat-square&color=1A1A1A&labelColor=1A1A1A"/>
+<div align="center">
+
+`🔴 🟡 🟢  guilabdev@sistema:~`
+
+</div>
 
 ```
 
