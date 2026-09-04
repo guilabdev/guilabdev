@@ -1,319 +1,180 @@
-<div align="center">
+ <div align="center">
 
-<a href="https://github.com/guilabdev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,75:F5C400,100:050505&height=220&section=header&text=GUI%20BARBOZA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVEDOR%20BACKEND%20EM%20FORMA%C3%87%C3%83O&descAlignY=58&descSize=18&descColor=F5C400&animation=fadeIn" width="100%" alt="Banner Gui Barboza">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0D0D0D&height=180&section=header&text=GUI%20BARBOZA&fontSize=46&fontColor=F5C400&fontAlignY=55&desc=DESENVOLVEDOR%20BACKEND%20EM%20FORMA%C3%87%C3%83O&descAlignY=75&descColor=A0A0A0&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=F5C400&center=true&vCenter=true&width=820&lines=INICIALIZANDO+SISTEMA...;ANALISANDO+PROBLEMAS...;CONSTRUINDO+SOLU%C3%87%C3%95ES...;TESTANDO+IDEIAS...;ENTENDENDO.+MELHORANDO.+REPETINDO." alt="Animação de inicialização">
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=F5C400&background=00000000&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;Backend+%E2%80%A2+Sistemas+%E2%80%A2+Automa%C3%A7%C3%A3o;Explorando+IA+e+Novas+Tecnologias;Sempre+em+beta." alt="typing-svg" />
 
-<a href="https://github.com/guilabdev">
-  <img src="https://img.shields.io/badge/GitHub-guilabdev-050505?style=for-the-badge&logo=github&logoColor=F5C400">
-</a>
-<a href="https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Barboza-050505?style=for-the-badge&logo=linkedin&logoColor=F5C400">
-</a>
-<a href="https://www.instagram.com/dzioch.g/">
-  <img src="https://img.shields.io/badge/Instagram-@dzioch.g-050505?style=for-the-badge&logo=instagram&logoColor=F5C400">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-F5C400?style=flat-square&labelColor=050505">
-<img src="https://img.shields.io/badge/FOCO-BACKEND-F5C400?style=flat-square&labelColor=050505">
-<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-F5C400?style=flat-square&labelColor=050505">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
 
 </div>
 
----
+<br/>
 
-## `>_ INICIALIZAÇÃO`
+## `> whoami`
 
-```text
-[SISTEMA]
-├── Usuário .............. Gui Barboza
-├── Perfil ............... Desenvolvedor em formação
-├── Direção .............. Backend
-├── Ambiente ............. VS Code + GitHub
-├── Mentalidade .......... Aprender → Construir → Testar → Melhorar
-└── Estado ............... ONLINE
+```ini
+--------------------------------------------------
+NOME         : Gui Barboza
+FUNÇÃO       : Desenvolvedor em formação
+FOCO         : Backend / Sistemas / Aprendizado
+STATUS       : [ ONLINE ]
+LOCALIZAÇÃO  : Brasil
+--------------------------------------------------
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:F5C400,100:050505&height=2&section=header" width="100%" alt="Separador">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
+</div>
 
-## `01 // SOBRE MIM`
+<br/>
 
-Sou um desenvolvedor em formação que gosta de **transformar problemas em soluções através da programação**.
+## `> stack.log`
 
-Gosto de observar algo que poderia ser melhor, pensar em uma solução, transformar a ideia em código e testar até encontrar uma forma que realmente funcione.
-
-Estou construindo minha base em programação enquanto exploro principalmente **Backend**, mas sem me limitar a uma única linguagem. Também estudo desenvolvimento web, banco de dados, lógica, inteligência artificial e diferentes tecnologias.
-
-Uma coisa que faz parte do meu jeito de programar:
-
-> **Primeiro faço funcionar. Depois faço ficar melhor.**
-
-Não quero apenas usar uma solução pronta. Quero entender o problema, descobrir como funciona, testar possibilidades e evoluir o código.
-
----
-
-## `02 // FOCO PRINCIPAL`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Em estudo:** Python • HTML • CSS • JavaScript • Banco de Dados / SQL • Lógica de Programação
 
-### ⚙️ BACKEND
-
-APIs, sistemas, regras de negócio e integração entre serviços.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ BANCO DE DADOS
-
-Estrutura, organização, consultas e modelagem de dados.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 SEGURANÇA
-
-Autenticação, autorização e fundamentos de proteção de sistemas.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 INTELIGÊNCIA ARTIFICIAL
-
-Experimentação e integração de IA com aplicações e sistemas.
-
-</td>
-</tr>
-</table>
+**Próximos estudos:** Java • C • C++
 
 </div>
 
----
-
-## `03 // TECNOLOGIAS`
 
 <div align="center">
 
-### Linguagens
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=F5C400)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F5C400)
+![HTML](https://img.shields.io/badge/HTML-0D0D0D?style=for-the-badge&logo=html5&logoColor=F5C400)
+![CSS](https://img.shields.io/badge/CSS-0D0D0D?style=for-the-badge&logo=css3&logoColor=F5C400)
+![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=F5C400)
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" alt="Linguagens">
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tecnologias Web">
-
-### Backend e Dados
-
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,postgresql" alt="Backend e Banco de Dados">
-
-### Ferramentas e Ambiente
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel" alt="Ferramentas">
 
 </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
+</div>
 
----
+<br/>
 
-## `04 // FERRAMENTAS`
+
+## `> sobre_mim.txt`
+
+Gosto de transformar problemas em ideias e ideias em soluções através da programação.
+
+Meu foco principal é **Backend**, mas estou construindo minha base em várias áreas. Gosto de criar, testar, encontrar problemas, pesquisar, entender o que está acontecendo e melhorar o resultado.
+
+**Minha forma de desenvolver:**
+
+```text
+PROBLEMA
+   ↓
+IDEIA
+   ↓
+PRIMEIRA VERSÃO
+   ↓
+TESTE
+   ↓
+ERRO
+   ↓
+ENTENDIMENTO
+   ↓
+CORREÇÃO
+   ↓
+MELHORIA
+```
+
+> Primeiro faço funcionar. Depois faço ficar melhor.
+
+## `> ferramentas.log`
+
+```text
+[01] VS Code  → desenvolvimento e testes
+[02] GitHub   → código, versionamento e projetos
+[03] Vercel   → testes e publicação de projetos web
+```
+
+## `> projetos`
 
 <div align="center">
 
-| Ferramenta | Utilização |
+| ÁREA | DIREÇÃO |
 |:---:|:---|
-| 💻 **VS Code** | Desenvolvimento, testes e organização dos projetos |
-| 🐙 **GitHub** | Versionamento, projetos e evolução do código |
-| 🌐 **Vercel** | Testes e publicação de projetos web |
-| 🔧 **Git** | Controle de versões e histórico de alterações |
+| 🛠️ **Problemas reais** | Criar ferramentas a partir de necessidades do dia a dia |
+| ⚙️ **Backend** | APIs, sistemas e integração com dados |
+| 🗄️ **Dados** | Cálculos, fórmulas e banco de dados |
+| 🤖 **IA** | Explorar ideias e integrações com inteligência artificial |
+| 🧪 **Experimentos** | Testar tecnologias, interfaces e novas ideias |
 
 </div>
 
----
+**Projetos reais serão adicionados conforme forem construídos.**
 
-## `05 // PROCESSO DE DESENVOLVIMENTO`
+## `> objetivos.txt`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         FLUXO DE IDEIA                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  01  PROBLEMA                                                │
-│   ↓                                                          │
-│  02  IDEIA                                                   │
-│   ↓                                                          │
-│  03  PLANEJAMENTO                                            │
-│   ↓                                                          │
-│  04  PRIMEIRA VERSÃO                                         │
-│   ↓                                                          │
-│  05  TESTE                                                    │
-│   ↓                                                          │
-│  06  ERRO / APRENDIZADO                                      │
-│   ↓                                                          │
-│  07  CORREÇÃO                                                 │
-│   ↓                                                          │
-│  08  MELHORIA                                                 │
-│   ↓                                                          │
-│  09  NOVA FUNCIONALIDADE                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+[ ] Evoluir minha lógica de programação
+[ ] Aprofundar Backend
+[ ] Criar APIs
+[ ] Evoluir em Banco de Dados
+[ ] Estudar Java
+[ ] Estudar C e C++
+[ ] Aprender autenticação e segurança
+[ ] Explorar Inteligência Artificial
+[ ] Criar sistemas maiores e mais complexos
 ```
 
-**Minha regra:** começar simples, testar cedo e evoluir conforme o projeto mostra o que precisa.
-
----
-
-## `06 // PROJETOS`
+## `> metrics.sh`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5C400&icon_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilabdev&hide_border=true&background=0D0D0D&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border_radius=8" width="48%"/>
 
-### 🧠 IDEIAS PRÓPRIAS
+<br/>
 
-Projetos criados a partir de problemas, necessidades ou ideias que eu queira transformar em código.
-
-**STATUS:** EM PLANEJAMENTO
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ SISTEMAS BACKEND
-
-APIs, serviços, autenticação, banco de dados e sistemas maiores.
-
-**STATUS:** EM CONSTRUÇÃO
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 EXPERIMENTOS
-
-Testes com IA, automações, cálculos, interfaces e novas tecnologias.
-
-**STATUS:** EXPLORAÇÃO
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
 
 </div>
 
 <div align="center">
-
-**Os projetos serão adicionados conforme forem realmente construídos.**
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
 </div>
 
----
+<br/>
 
-## `07 // OBJETIVOS ATUAIS`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    MISSÃO ATUAL // 2026                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Criar e organizar meu espaço no GitHub                  ║
-║  [ ] Evoluir minha lógica de programação                     ║
-║  [ ] Aprofundar Backend                                      ║
-║  [ ] Criar APIs e sistemas próprios                          ║
-║  [ ] Evoluir em Banco de Dados                               ║
-║  [ ] Estudar Java                                            ║
-║  [ ] Estudar C e C++                                         ║
-║  [ ] Aprender autenticação e segurança                       ║
-║  [ ] Explorar Inteligência Artificial                         ║
-║  [ ] Aprender Docker e Linux                                 ║
-║  [ ] Construir sistemas cada vez mais complexos              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `08 // GITHUB STATS`
+## `> activity.log`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=050505&title_color=F5C400&icon_color=F5C400&text_color=FFFFFF" alt="Estatísticas do GitHub">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=050505&title_color=F5C400&text_color=FFFFFF" alt="Linguagens mais utilizadas">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=guilabdev&theme=dark&hide_border=true&background=050505&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&dates=888888" alt="Sequência de contribuições">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilabdev&bg_color=050505&color=F5C400&line=F5C400&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de atividade do GitHub">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilabdev&bg_color=0D0D0D&color=F5C400&line=F5C400&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
+</div>
 
-## `09 // CONQUISTAS`
+<br/>
+
+## `> contato.sh`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guilabdev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Conquistas do GitHub">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5C400)](https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F5C400)](https://www.instagram.com/dzioch.g/)
 
 </div>
 
----
-
-## `10 // CONTRIBUIÇÕES`
+<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilabdev/guilabdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilabdev/guilabdev/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/guilabdev/guilabdev/output/github-contribution-grid-snake.svg" width="95%" alt="Animação das contribuições do GitHub">
-</picture>
+<img src="https://komarev.com/ghpvc/?username=guilabdev&label=VISUALIZA%C3%87%C3%95ES&color=F5C400&style=for-the-badge&labelColor=0D0D0D" />
 
-</div>
+<br/><br/>
 
----
-
-## `11 // CONEXÕES`
-
-<div align="center">
-
-<a href="https://github.com/guilabdev">
-  <img src="https://img.shields.io/badge/GITHUB-guilabdev-050505?style=for-the-badge&logo=github&logoColor=F5C400">
-</a>
-
-<a href="https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Guilherme%20Barboza-050505?style=for-the-badge&logo=linkedin&logoColor=F5C400">
-</a>
-
-<a href="https://www.instagram.com/dzioch.g/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-@dzioch.g-050505?style=for-the-badge&logo=instagram&logoColor=F5C400">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C400,45:111111,75:050505,100:050505&height=150&section=footer&animation=fadeIn" width="100%" alt="Rodapé">
-
-### `SISTEMA ONLINE`
-
-**Código. Teste. Entenda. Melhore. Repita.**
-
-<sub>Construindo meu caminho na programação, um projeto de cada vez.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:050505&height=90&section=footer&text=conex%C3%A3o%20encerrada.&fontSize=16&fontColor=F5C400&fontAlignY=60" width="100%"/>
 
 </div>
