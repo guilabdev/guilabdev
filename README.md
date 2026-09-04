@@ -39,30 +39,37 @@ Sou estudante de programação, construindo minha experiência através de estud
 
 <br/>
 
-### 🎯 Sobre mim
+<img src="https://img.shields.io/badge/🎯_SOBRE_MIM-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
 
 Estou construindo minha base como desenvolvedor, com foco em entender profundamente a lógica por trás de cada solução antes de buscar complexidade. Prefiro consolidar fundamentos sólidos a acumular tecnologias superficialmente.
 
-### 📚 Estudos atuais
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
+
+<img src="https://img.shields.io/badge/📚_ESTUDOS_ATUAIS-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
 
 Estudo lógica de programação, backend e fundamentos de banco de dados, sempre buscando entender o "porquê" por trás de cada conceito.
 
-### 🛠️ Ferramentas do dia a dia
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
+
+<img src="https://img.shields.io/badge/🛠️_FERRAMENTAS_DO_DIA_A_DIA-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
 
 VS Code, GitHub e Vercel fazem parte do meu fluxo de trabalho atual para escrever, versionar e publicar código.
 
-### 🎯 Objetivos
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
+
+<img src="https://img.shields.io/badge/🎯_OBJETIVOS-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
 
 Quero me aprofundar em desenvolvimento backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.
 
-### 🔄 Meu processo de aprendizado
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=1&width=100%"/>
 
-```
+<img src="https://img.shields.io/badge/🔄_MEU_PROCESSO_DE_APRENDIZADO-0D0D0D?style=flat-square&color=0D0D0D&logoColor=F5C400"/>
 
-IDEIA → ENTENDER O PROBLEMA → CRIAR → TESTAR
-→ ENCONTRAR O PROBLEMA → PESQUISAR → CORRIGIR → MELHORAR
+<div align="center">
 
-```
+`IDEIA` → `ENTENDER O PROBLEMA` → `CRIAR` → `TESTAR` → `ENCONTRAR O PROBLEMA` → `PESQUISAR` → `CORRIGIR` → `MELHORAR`
+
+</div>
 
 Esse ciclo se repete constantemente — cada erro é parte do processo, não um obstáculo.
 
