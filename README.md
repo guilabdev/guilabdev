@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-F5C400?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/FOCO-BACKEND-FFD21A?style=for-the-badge&labelColor0D0D0D&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/FOCO-BACKEND-FFD21A?style=for-the-badge&labelColor=0D0D0D"/>
 
 </div>
 
