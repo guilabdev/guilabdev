@@ -46,34 +46,6 @@ class Guilherme:
 
 ---
 
-## Projetos em destaque
-
-### 🌐 DevWeb Studio
-
-**Site oficial da DevWeb Studio**
-
-Projeto voltado para desenvolvimento web e criação de interfaces.
-
-[![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilabdev)
-
-### 🧪 Estudos & Experimentos
-
-Projetos pessoais para praticar programação, testar ideias e aprender novas tecnologias.
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&hide_border=true&bg_color=111111&title_color=F5C542&icon_color=F5C542&text_color=FFFFFF&ring_color=F5C542" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&hide_border=true&bg_color=111111&title_color=F5C542&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## Onde me encontrar
 
 <div align="center">
