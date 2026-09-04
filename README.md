@@ -1,50 +1,40 @@
 <div align="center">
 
-# `GUILABDEV`
+# GUILABDEV
 
-### `Backend Developer | Em construção`
+### Desenvolvedor em formação • Foco em Backend
 
-`> iniciando sistema...`  
-`> carregando conhecimento...`  
-`> Backend Developer em evolução`  
-`> status: aprendendo todos os dias`
+**Transformando ideias em código e problemas em soluções.**
 
-**[ STATUS: EM EVOLUÇÃO ]**　**[ FOCO: BACKEND ]**
+<br>
+
+`PYTHON` · `HTML` · `CSS` · `JAVASCRIPT` · `SQL`
 
 </div>
 
 ---
 
-## `> whoami`
+## 👨‍💻 Sobre mim
 
-```text
-Nome ......... GuilabDev
-Função ....... Estudante de Programação | Foco em Backend
-Filosofia .... "Primeiro faço funcionar. Depois faço ficar melhor."
-Interesse .... Criar ideias, entender problemas, transformá-los em soluções
-Status ....... ONLINE
-Localização .. Brasil
-```
+Sou estudante de programação e estou construindo minha experiência através de **estudo, prática e projetos**.
 
-Sou estudante de programação, construindo minha experiência através de estudos, prática e projetos reais. Tenho interesse principalmente em **Backend** e desenvolvimento de sistemas.
+Gosto de criar ideias, encontrar problemas e pensar em maneiras de resolvê-los usando programação. Meu principal objetivo é evoluir para **Backend**, aprofundando meus conhecimentos em sistemas, APIs, bancos de dados e desenvolvimento de aplicações.
 
-Gosto de identificar problemas, pensar em soluções e transformar ideias em código.
+> **"Primeiro faço funcionar. Depois faço ficar melhor."**
+
+---
+
+## ⚡ Mais sobre mim
 
 <details>
-<summary><b>⚡ MAIS INFO</b></summary>
+<summary><strong>Ver detalhes</strong></summary>
 
 <br>
 
-### 🎯 Sobre mim
+### 📚 O que estou estudando
 
-Estou construindo minha base como desenvolvedor, buscando entender os fundamentos antes de partir para soluções mais complexas.
-
-Prefiro aprender de verdade, testar na prática e entender o motivo dos erros em vez de simplesmente fazer o código funcionar sem saber como ele funciona.
-
-### 📚 Estudos atuais
-
-| Área | Status |
-|---|---|
+| Tecnologia | Nível atual |
+|:--|:--|
 | Python | 🟡 Estudando |
 | HTML | 🟡 Estudando |
 | CSS | 🟡 Estudando |
@@ -52,136 +42,80 @@ Prefiro aprender de verdade, testar na prática e entender o motivo dos erros em
 | SQL / Banco de Dados | 🟡 Estudando |
 | Lógica de Programação | 🟡 Em aprendizado |
 
-### 🛠️ Ferramentas
+### 🧰 Ferramentas
 
-- **VS Code**
-- **GitHub**
-- **Vercel**
+**VS Code** · **GitHub** · **Vercel**
 
-### 🎯 Próximos estudos
+### 🎯 Próximos passos
 
-- Java
-- C
-- C++
+**Java** · **C** · **C++**
 
-### 🔄 Meu processo de aprendizado
+### 🧠 Como eu aprendo
 
-```text
-IDEIA
-  ↓
-ENTENDER O PROBLEMA
-  ↓
-CRIAR
-  ↓
-TESTAR
-  ↓
-ENCONTRAR O PROBLEMA
-  ↓
-PESQUISAR E ENTENDER
-  ↓
-CORRIGIR
-  ↓
-MELHORAR
-```
-
-> ⚡ Primeiro faço funcionar. Depois faço ficar melhor.
+**Entender → Praticar → Testar → Errar → Pesquisar → Corrigir → Melhorar**
 
 </details>
 
 ---
 
-## `> tecnologias`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Python       HTML       CSS       JavaScript       SQL     │
-│                                                             │
-│  Lógica de Programação                                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## `> ferramentas`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  VS Code              GitHub              Vercel            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## `> próximos_estudos`
-
-```text
-JAVA                    C                    C++
-[ EM BREVE ]            [ EM BREVE ]        [ EM BREVE ]
-```
-
----
-
-## `> projetos`
-
-### `📁 Projeto em desenvolvimento`
-
-> Meus projetos serão adicionados aqui conforme forem ficando prontos para publicação.
-
-```text
-STATUS: EM CONSTRUÇÃO
-OBJETIVO: transformar ideias em projetos reais
-```
-
-### `📁 Próximo projeto`
-
-> Espaço reservado para um novo projeto.
-
-```text
-STATUS: PLANEJAMENTO
-```
-
----
-
-## `> objetivos`
-
-```text
-[01] Fortalecer minha lógica de programação
-[02] Evoluir em Python e desenvolvimento Backend
-[03] Aprofundar conhecimentos em Banco de Dados
-[04] Aprender Java, C e C++
-[05] Criar projetos cada vez mais completos
-[06] Entender sistemas e soluções de forma mais profunda
-```
-
----
-
-## `> github`
-
-```text
-USUÁRIO       : guilabdev
-NOME          : GuilabDev
-REPOSITÓRIOS  : github.com/guilabdev
-STATUS        : [ ONLINE ]
-```
-
-**GitHub:** [github.com/guilabdev](https://github.com/guilabdev)
-
-> As estatísticas dinâmicas e animações externas foram removidas desta versão para evitar imagens quebradas ou serviços fora do ar.
-
----
-
-## `> redes_sociais`
+## 🛠️ Tecnologias
 
 <div align="center">
 
-**GitHub**  
-[guilabdev](https://github.com/guilabdev)
+| 💻 Desenvolvimento | 🗄️ Dados | 🎯 Foco |
+|:--|:--|:--|
+| Python | SQL | Backend |
+| HTML | Banco de Dados | APIs |
+| CSS | — | Sistemas |
+| JavaScript | — | Lógica |
 
-**LinkedIn**  
-[guilherme-b-dzioch](https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/)
+</div>
 
-**Instagram**  
-[@dzioch.g](https://www.instagram.com/dzioch.g/)
+---
+
+## 🚀 Projetos
+
+Ainda estou construindo meus primeiros projetos para colocar aqui.
+
+### 📌 Em desenvolvimento
+
+> Novos projetos serão adicionados conforme forem ficando prontos para publicação.
+
+**Status:** 🟡 Construindo
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir minha lógica de programação
+- Aprofundar meus conhecimentos em Python
+- Aprender desenvolvimento Backend
+- Evoluir em Banco de Dados e SQL
+- Criar e publicar projetos reais
+- Aprender Java, C e C++
+- Construir sistemas cada vez mais completos
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+**github.com/guilabdev**
+
+[Visitar meu GitHub](https://github.com/guilabdev)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[**GitHub**](https://github.com/guilabdev)  
+[**LinkedIn**](https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/)  
+[**Instagram**](https://www.instagram.com/dzioch.g/)
 
 </div>
 
@@ -189,16 +123,8 @@ STATUS        : [ ONLINE ]
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║       "Primeiro faço funcionar. Depois faço ficar melhor."  ║
-║                                                              ║
-║                         GUILABDEV                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### GUILABDEV
 
-`conexão encerrada.`
+`Estudando • Criando • Evoluindo`
 
 </div>
