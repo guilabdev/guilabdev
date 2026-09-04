@@ -16,7 +16,7 @@
 
 ```ini
 --------------------------------------------------
-NOME         : Gui Barboza
+NOME         : GuiLabDev
 FUNÇÃO       : Desenvolvedor em formação
 FOCO         : Backend / Sistemas / Aprendizado
 STATUS       : [ ONLINE ]
