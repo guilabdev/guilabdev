@@ -1,6 +1,6 @@
 <!--
-  ATENÇÃO: substitua todas as ocorrências de "SEU-USUARIO-GITHUB" pelo seu
-  usuário real do GitHub para que os cards de estatísticas funcionem.
+  Usuário GitHub configurado: GuiLabDev
+  (usado nos cards de estatísticas, streak, linguagens, activity graph e contador de views)
 -->
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ```ini
 --------------------------------------------------
-NOME         : GuilabDev
+NOME         : GuiLabDev
 FUNÇÃO       : Desenvolvedor de Software
 FOCO         : Backend / Sistemas / Automação
 STATUS       : [ ONLINE ]
@@ -65,12 +65,12 @@ LOCALIZAÇÃO  : Brasil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5C400&icon_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-GITHUB&hide_border=true&background=0D0D0D&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border_radius=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuiLabDev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5C400&icon_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLabDev&hide_border=true&background=0D0D0D&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border_radius=8" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLabDev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
 
 </div>
 
@@ -84,7 +84,7 @@ LOCALIZAÇÃO  : Brasil
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-GITHUB&bg_color=0D0D0D&color=F5C400&line=F5C400&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiLabDev&bg_color=0D0D0D&color=F5C400&line=F5C400&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -108,7 +108,7 @@ LOCALIZAÇÃO  : Brasil
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&label=VISUALIZA%C3%87%C3%95ES&color=F5C400&style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=GuiLabDev&label=VISUALIZA%C3%87%C3%95ES&color=F5C400&style=for-the-badge&labelColor=0D0D0D" />
 
 <br/><br/>
 
