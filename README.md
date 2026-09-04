@@ -1,98 +1,232 @@
- <!--
-  Usuário GitHub configurado: GuiLabDev
-  (usado no card de streak e no contador de views)
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0D0D0D&height=180&section=header&text=GUILABDEV&fontSize=46&fontColor=F5C400&fontAlignY=55&desc=SOFTWARE%20ENGINEER&descAlignY=75&descColor=A0A0A0&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D0D0D,100:F5C400&height=220&section=header&text=GUILABDEV&fontSize=60&fontColor=FFD21A&fontAlignY=40&desc=Backend%20Developer%20%7C%20Em%20constru%C3%A7%C3%A3o&descAlignY=58&descColor=A0A0A0&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=F5C400&background=00000000&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;Backend+%E2%80%A2+Sistemas+%E2%80%A2+Automa%C3%A7%C3%A3o;Explorando+IA+e+Novas+Tecnologias;Sempre+em+beta." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=F5C400&center=true&vCenter=true&width=600&lines=%3E+iniciando+sistema...;%3E+carregando+conhecimento...;%3E+Backend+Developer+em+evolu%C3%A7%C3%A3o;%3E+status%3A+aprendendo+todos+os+dias" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-F5C400?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/FOCO-BACKEND-FFD21A?style=for-the-badge&labelColor0D0D0D&labelColor=0D0D0D"/>
 
 </div>
 
 <br/>
 
-## `> whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
 
-```ini
---------------------------------------------------
-NOME         : GuiLabDev
-FUNÇÃO       : Desenvolvedor de Software
-FOCO         : Backend / Sistemas / Automação
-STATUS       : [ ONLINE ]
-LOCALIZAÇÃO  : Brasil
---------------------------------------------------
+<br/>
+
+## <img src="https://img.shields.io/badge/-%3E_whoami-0D0D0D?style=flat-square&color=050505" height="28"/>
+
 ```
 
+Nome ......... GuiLabDev
+Função ....... Estudante de Programação | Foco em Backend
+Filosofia .... "Primeiro faço funcionar. Depois faço ficar melhor."
+Interesse .... Criar ideias, entender problemas, transformá-los em soluções
+
+```
+
+Sou estudante de programação, construindo minha experiência através de estudos, prática e projetos reais. Tenho interesse principalmente em **Backend** e desenvolvimento de sistemas — gosto de identificar problemas e transformá-los em soluções através do código.
+
+<br/>
+
+<details>
+<summary><b>⚡ MAIS INFO</b></summary>
+
+<br/>
+
+### 🎯 Sobre mim
+
+Estou construindo minha base como desenvolvedor, com foco em entender profundamente a lógica por trás de cada solução antes de buscar complexidade. Prefiro consolidar fundamentos sólidos a acumular tecnologias superficialmente.
+
+### 📚 Estudos atuais
+
+Estudo lógica de programação, backend e fundamentos de banco de dados, sempre buscando entender o "porquê" por trás de cada conceito.
+
+### 🛠️ Ferramentas do dia a dia
+
+VS Code, GitHub e Vercel fazem parte do meu fluxo de trabalho atual para escrever, versionar e publicar código.
+
+### 🎯 Objetivos
+
+Quero me aprofundar em desenvolvimento backend e arquitetura de sistemas, expandindo gradualmente meu conhecimento para outras linguagens como Java, C e C++.
+
+### 🔄 Meu processo de aprendizado
+
+```
+
+IDEIA → ENTENDER O PROBLEMA → CRIAR → TESTAR
+→ ENCONTRAR O PROBLEMA → PESQUISAR → CORRIGIR → MELHORAR
+
+```
+
+Esse ciclo se repete constantemente — cada erro é parte do processo, não um obstáculo.
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-TECNOLOGIAS-0D0D0D?style=flat-square&color=050505" height="28"/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
+
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=postgresql&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/Lógica_de_Programação-050505?style=for-the-badge&logo=codeforces&logoColor=F5C400"/>
+
 </div>
 
 <br/>
 
-## `> stack.log`
+## <img src="https://img.shields.io/badge/-FERRAMENTAS-0D0D0D?style=flat-square&color=050505" height="28"/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=F5C400)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F5C400)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=F5C400)
-![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=F5C400)
-![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=F5C400)
-
-![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=F5C400)
-![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=F5C400)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F5C400)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=F5C400)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=F5C400)
-
-</div>
-
-<!-- Substitua os badges acima pelas tecnologias que você realmente utiliza -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
-</div>
-
-<br/>
-
-## `> metrics.sh`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=GuiLabDev&hide_border=true&background=0D0D0D&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border_radius=8" width="70%"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
-</div>
-
-<br/>
-
-## `> contato.sh`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5C400)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F5C400)](https://instagram.com/SEU-INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F5C400)](mailto:seuemail@exemplo.com)
+<img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5C400"/>
+<img src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=F5C400"/>
 
 </div>
 
 <br/>
 
+## <img src="https://img.shields.io/badge/-PRÓXIMOS_ESTUDOS-0D0D0D?style=flat-square&color=050505" height="28"/>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GuiLabDev&label=VISUALIZA%C3%87%C3%95ES&color=F5C400&style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=A0A0A0"/>
+<img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A0A0A0"/>
+<img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=A0A0A0"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-PROJETOS-0D0D0D?style=flat-square&color=050505" height="28"/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📁 Projeto em breve
+
+> Descrição do projeto aqui.
+
+`Tecnologia` `Tecnologia`
+
+[`🔗 Repositório`](#) &nbsp;|&nbsp; [`🚀 Demo`](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📁 Projeto em breve
+
+> Descrição do projeto aqui.
+
+`Tecnologia` `Tecnologia`
+
+[`🔗 Repositório`](#) &nbsp;|&nbsp; [`🚀 Demo`](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> 💡 Substitua os cards acima pelos seus projetos reais assim que estiverem prontos para publicação.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-GITHUB_STATS-0D0D0D?style=flat-square&color=050505" height="28"/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&theme=react&bg_color=050505&title_color=F5C400&icon_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&theme=react&bg_color=050505&title_color=F5C400&text_color=A0A0A0&border_color=F5C400&hide_border=false" width="49%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=guilabdev&theme=react&background=050505&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border=F5C400&hide_border=false" width="49%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:050505&height=90&section=footer&text=conex%C3%A3o%20encerrada.&fontSize=16&fontColor=F5C400&fontAlignY=60" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilabdev&theme=react&bg_color=050505&color=F5C400&line=FFD21A&point=FFFFFF&area=true&hide_border=true" width="97%"/>
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-TROFÉUS-0D0D0D?style=flat-square&color=050505" height="28"/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=guilabdev&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-CONTRIBUIÇÕES-0D0D0D?style=flat-square&color=050505" height="28"/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/guilabdev/guilabdev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ O snake de contribuições requer uma GitHub Action configurada no repositório `guilabdev/guilabdev` para gerar o arquivo SVG automaticamente (workflow `Platane/snk`).
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2&width=100%"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-REDES_SOCIAIS-0D0D0D?style=flat-square&color=050505" height="28"/>
+
+<div align="center">
+
+<a href="https://github.com/guilabdev">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=F5C400"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=F5C400"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=F5C400"/>
+</a>
+
+</div>
+
+> 💡 Substitua os links `#` acima pelos seus perfis reais.
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C400,50:0D0D0D,100:050505&height=120&section=footer"/>
+
+<sub>⚡ <b>"Primeiro faço funcionar. Depois faço ficar melhor."</b> ⚡</sub>
 
 </div>
