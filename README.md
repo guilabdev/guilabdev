@@ -23,18 +23,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=40&section=header&text=%3E%20WHOAMI&fontSize=16&fontColor=F5C400&fontAlignY=65&width=100%"/>
 
+`🔴 🟡 🟢  guilabdev@sistema:~`
+
 </div>
 
-<br/>
-
-<pre>
-🔴 🟡 🟢  guilabdev@sistema:~
+```
 
 Nome ......... GuiLabDev
 Função ....... Estudante de Programação | Foco em Backend
 Filosofia .... "Primeiro faço funcionar. Depois faço ficar melhor."
 Interesse .... Criar ideias, entender problemas, transformá-los em soluções
-</pre>
+
+```
 
 <div align="center">
 
