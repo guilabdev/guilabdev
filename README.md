@@ -1,88 +1,94 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%">
-
-<br>
-
-# 👨‍💻 Guilherme
-
-### Desenvolvedor em formação · Criando ideias com código
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="./assets/banner.png" width="100%" alt="Guilherme - Developer">
 
 <br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dzioch.g/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilabdev)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou **Guilherme**, desenvolvedor em formação e apaixonado por programação.
+Sou **Guilherme**, desenvolvedor em formação e atualmente focado em **Python** e desenvolvimento de projetos.
 
-Gosto de transformar ideias em projetos reais, aprender novas tecnologias e evoluir um pouco todos os dias.
+Gosto de aprender fazendo: transformar uma ideia em código, testar, quebrar, corrigir e melhorar.
 
-```text
-> criando
-> aprendendo
-> experimentando
-> evoluindo
+```python
+class Guilherme:
+    foco = ["Python", "Web", "Projetos"]
+    objetivo = "evoluir todos os dias"
+
+    def criar(self, ideia):
+        return "transformando ideia em código"
 ```
 
 ---
 
-<div align="center">
-
-## 🧰 Tecnologias & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
-</div>
-
----
+## Tecnologias
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 
 </div>
 
+### Atualmente estudando
+
+- 🐍 Python
+- 🌐 Desenvolvimento Web
+- 🗃️ Git e GitHub
+- 🧩 Lógica e criação de projetos
+
 ---
 
-## 🌌 Projetos
+## Projetos em destaque
 
 ### 🌐 DevWeb Studio
-Site oficial da DevWeb Studio.
 
-> Projeto desenvolvido para praticar desenvolvimento web e criação de interfaces.
+**Site oficial da DevWeb Studio**
 
-### 💻 Guilabdev
-Meu espaço para projetos, estudos, experimentos e evolução na programação.
+Projeto voltado para desenvolvimento web e criação de interfaces.
+
+[![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilabdev)
+
+### 🧪 Estudos & Experimentos
+
+Projetos pessoais para praticar programação, testar ideias e aprender novas tecnologias.
 
 ---
 
+## GitHub
+
 <div align="center">
 
-## 🌎 Onde me encontrar
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilabdev&show_icons=true&hide_border=true&bg_color=111111&title_color=F5C542&icon_color=F5C542&text_color=FFFFFF&ring_color=F5C542" />
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilabdev&layout=compact&hide_border=true&bg_color=111111&title_color=F5C542&text_color=FFFFFF" />
 
-<a href="SEU_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</div>
 
-<a href="https://github.com/guilabdev">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-<br><br>
+## Onde me encontrar
 
-### ⚡ Sempre aprendendo. Sempre criando.
+<div align="center">
+
+**LinkedIn**  
+[linkedin.com/in/guilherme-b-dzioch-75b33a3b2](https://www.linkedin.com/in/guilherme-b-dzioch-75b33a3b2/)
+
+**Instagram**  
+[@dzioch.g](https://www.instagram.com/dzioch.g/)
+
+**GitHub**  
+[@guilabdev](https://github.com/guilabdev)
+
+<br>
+
+### `> transformando ideias em código.`
 
 </div>
