@@ -1,6 +1,6 @@
-<!--
+ <!--
   Usuário GitHub configurado: GuiLabDev
-  (usado nos cards de estatísticas, streak, linguagens, activity graph e contador de views)
+  (usado no card de streak e no contador de views)
 -->
 
 <div align="center">
@@ -65,26 +65,7 @@ LOCALIZAÇÃO  : Brasil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuiLabDev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5C400&icon_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=GuiLabDev&hide_border=true&background=0D0D0D&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border_radius=8" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLabDev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F5C400&text_color=FFFFFF&border_radius=8" width="48%"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5C400&section=header" width="60%"/>
-</div>
-
-<br/>
-
-## `> activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiLabDev&bg_color=0D0D0D&color=F5C400&line=F5C400&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=GuiLabDev&hide_border=true&background=0D0D0D&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&border_radius=8" width="70%"/>
 
 </div>
 
