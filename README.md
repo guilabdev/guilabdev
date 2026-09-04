@@ -19,9 +19,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=40&section=header&text=%3E%20WHOAMI&fontSize=16&fontColor=F5C400&fontAlignY=65&width=100%"/>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=40&section=header&text=%3E%20WHOAMI&fontSize=16&fontColor=F5C400&fontAlignY=65&width=100%"/>
 
 `🔴 🟡 🟢  guilabdev@sistema:~`
 
@@ -36,7 +36,11 @@ Interesse .... Criar ideias, entender problemas, transformá-los em soluções
 
 ```
 
+<div align="center">
+
 Sou estudante de programação, construindo minha experiência através de estudos, prática e projetos reais. Tenho interesse principalmente em **Backend** e desenvolvimento de sistemas — gosto de identificar problemas e transformá-los em soluções através do código.
+
+</div>
 
 <br/>
 
