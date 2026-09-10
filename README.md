@@ -30,7 +30,7 @@
 ```
 
 Nome ......... GuiLabDev
-Função ....... Estudante de Programação | Foco em Backend
+Função ....... Estudante de Programação 
 Filosofia .... "Primeiro faço funcionar. Depois faço ficar melhor."
 Interesse .... Criar ideias, entender problemas, transformá-los em soluções
 
